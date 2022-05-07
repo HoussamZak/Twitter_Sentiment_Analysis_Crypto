@@ -1,0 +1,9 @@
+#config.py
+
+api_key = "ifcMFVPS2uJSKrYuXBvnR7e7Q"
+api_key_secret = "DkzeVZfAZ88wzc0tRyDfgGK4ZegZZZ7FAaAk5P3u6bjWRhgPKk"
+
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAPilZAEAAAAAG665O2DB7TxestJ0cqdMokWQGa8%3DgccPbOx4tcC1bDfZEKyzmGerFegy2yJuNLT1yboKATHmPCQbIi"
+
+access_token = "1492535312781877253-xnhHyPytBtyAxsbe4zAokPak218CfZ"
+access_token_secret = "S92mRhH2iIrKN34bj1YImNlx0mOygxfrlwOAUI5flQZ3Z"
